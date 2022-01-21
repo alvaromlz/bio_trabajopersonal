@@ -2,8 +2,8 @@
 
 En este fichero se explica el contenido de nuestro repositorio.
 
-Ya sí me salen las carpetas, nuevo cambio.
+# contenido
 
-Nuevo cambio
+## Exportar csv
 
-A ver si así funciona
+Hemos exportado un csv en el script llamado *script_exportar.r*
